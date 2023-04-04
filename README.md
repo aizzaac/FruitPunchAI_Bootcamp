@@ -1,2 +1,2 @@
 # FruitPunchAI_Bootcamp
-Solutions to the Bootcamp's questions
+Solutions to the Bootcamp's exercises.
